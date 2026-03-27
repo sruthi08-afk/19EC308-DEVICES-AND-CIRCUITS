@@ -42,15 +42,19 @@ gm =ID/VGS
 <img width="428" height="282" alt="image" src="https://github.com/user-attachments/assets/e1168bd1-4f0a-4640-b4c4-5d179b72c5cf" />
 
 # GRAPH:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/deb7563e-cfda-4457-8ab9-fd3b1b0d7947" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/66a053e1-3946-430c-a119-5c1f8dde1000" />
+
 
 
 # TABULATION:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e817c628-0f4b-4725-8d1f-8d9dea5547ea" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/e382b1dd-59ff-4de7-8c7f-aa1f18c1cf1d" />
+
 
 
 # CALCULATION:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3686df8-f01d-4b9a-b102-86548a55f789" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/83b5fb48-7926-4391-829d-9c20f0f06307" />
+
+
 
 
 # RESULT:
