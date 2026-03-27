@@ -32,11 +32,9 @@ current I D . Tabulate all the readings.
 5. Calculate V T ,gm, rd or ro from the graphs and verify it from the data sheet.
 
 # TABULATION:
-# DRAIN CHARACTERISTICS:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/485cf651-1a25-4d4d-8133-6ebddc6d678f" />
+# TRANSFER CHARACTERISTICS DRAIN CHARACTERISTICS:
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e17f0e3-1d0d-4550-b54e-5ba802b2d2cb" />
 
-# TRANSFER CHARACTERISTICS:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fabef903-6935-4e75-bde5-cac6b2c8b67d" />
 
 # MODEL GRAPH:
 
@@ -44,7 +42,7 @@ current I D . Tabulate all the readings.
 <img width="1098" height="460" alt="image" src="https://github.com/user-attachments/assets/f2570b25-b339-4a9c-9c90-19e9a59b5051" />
 
 # GRAPH:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5cf1ce1-2aeb-4459-84ac-04cdc8adae00" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f2afaa7-d3cf-4725-979f-72b80a05a5e6" />
 
 
 # CALCULATION:
@@ -55,7 +53,10 @@ gm = Δ I D / ΔV GS at constant V DS
 3. Output drain resistance : It is given by the relation of small change in drain to source voltage
 (Δ V DS ) to the corresponding change in Drain Current (Δ I D ) for a constant V GS .
 rd or ro = ΔVDS/ΔID at a constant VGS
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/c63864bd-d7bd-4aa0-b171-00730fd65df9" />
+
 
 # RESULTS:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/da503025-8382-4f1e-a832-ff208766b583" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b4f398e-faef-430c-8250-7603bb96e227" />
+
 
